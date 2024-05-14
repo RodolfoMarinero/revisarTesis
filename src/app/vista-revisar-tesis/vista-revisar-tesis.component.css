@@ -1,0 +1,13 @@
+::ng-deep .navbar {
+  background-color: green; /* Cambia el color de fondo del navbar */
+}
+body {
+  background-color: aqua;
+}
+.main {
+  background-image: url('https://www.unpa.edu.mx/rv/loma_bonita/vista_parcial3.jpg'); /* Ruta de tu imagen de fondo */
+  background-size: cover; /* Para que la imagen de fondo cubra todo el div */
+  background-position: center; /* Para centrar la imagen de fondo */
+  height: 100vh; /* Altura del div igual al 100% del viewport height */
+  width: 100%; /* Ancho del div igual al 100% */
+}
